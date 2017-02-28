@@ -1,0 +1,6 @@
+E:\New folder (2)\Stacking Cups\Stacking Cups\bin\Debug\Stacking Cups.exe.config
+E:\New folder (2)\Stacking Cups\Stacking Cups\bin\Debug\Stacking Cups.exe
+E:\New folder (2)\Stacking Cups\Stacking Cups\bin\Debug\Stacking Cups.pdb
+E:\New folder (2)\Stacking Cups\Stacking Cups\obj\Debug\Stacking Cups.csprojResolveAssemblyReference.cache
+E:\New folder (2)\Stacking Cups\Stacking Cups\obj\Debug\Stacking Cups.exe
+E:\New folder (2)\Stacking Cups\Stacking Cups\obj\Debug\Stacking Cups.pdb
