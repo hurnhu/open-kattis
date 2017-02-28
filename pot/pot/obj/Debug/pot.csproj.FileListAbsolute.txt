@@ -1,0 +1,6 @@
+E:\New folder (2)\pot\pot\bin\Debug\pot.exe.config
+E:\New folder (2)\pot\pot\bin\Debug\pot.exe
+E:\New folder (2)\pot\pot\bin\Debug\pot.pdb
+E:\New folder (2)\pot\pot\obj\Debug\pot.csprojResolveAssemblyReference.cache
+E:\New folder (2)\pot\pot\obj\Debug\pot.exe
+E:\New folder (2)\pot\pot\obj\Debug\pot.pdb
