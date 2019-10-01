@@ -2,3 +2,9 @@
 obj/
 *.exe*
 .vs/
+*.tlog
+*.pdb
+*.idb
+*.obj
+*.ilk
+*.log
