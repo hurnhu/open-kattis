@@ -1,6 +1,0 @@
-E:\New folder (2)\Stuck In A Time Loop\Stuck In A Time Loop\bin\Debug\Stuck In A Time Loop.exe.config
-E:\New folder (2)\Stuck In A Time Loop\Stuck In A Time Loop\bin\Debug\Stuck In A Time Loop.exe
-E:\New folder (2)\Stuck In A Time Loop\Stuck In A Time Loop\bin\Debug\Stuck In A Time Loop.pdb
-E:\New folder (2)\Stuck In A Time Loop\Stuck In A Time Loop\obj\Debug\Stuck In A Time Loop.csprojResolveAssemblyReference.cache
-E:\New folder (2)\Stuck In A Time Loop\Stuck In A Time Loop\obj\Debug\Stuck In A Time Loop.exe
-E:\New folder (2)\Stuck In A Time Loop\Stuck In A Time Loop\obj\Debug\Stuck In A Time Loop.pdb
