@@ -32,6 +32,6 @@ func main() {
 	}
 
 	for i := 0; i < 4; i++ {
-		fmt.Printf("%s %s    %s %s\n", display[0][i], display[1][i], display[2][i], display[3][i])
+		fmt.Printf("%s %s   %s %s\n", display[0][i], display[1][i], display[2][i], display[3][i])
 	}
 }
