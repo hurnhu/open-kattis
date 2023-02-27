@@ -8,3 +8,4 @@ obj/
 *.obj
 *.ilk
 *.log
+target/
